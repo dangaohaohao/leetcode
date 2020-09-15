@@ -12,3 +12,4 @@ toMe: If you are not good at something, you should try to gnaw it down, and don'
 - 寻找两个正序数组的中位数 https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
 - 单词搜索 https://leetcode-cn.com/problems/word-search/submissions/
 - 二叉树的中序遍历 https://leetcode-cn.com/problems/binary-tree-inorder-traversal/submissions/
+- 解数独 https://leetcode-cn.com/problems/sudoku-solver/
